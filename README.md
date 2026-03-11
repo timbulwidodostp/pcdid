@@ -1,6 +1,8 @@
 # pcdid
 Principal Components Difference-in-Differences Use pcdid With (In) R Software
 
+https://www.youtube.com/watch?v=wxpBCLfdhVg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
